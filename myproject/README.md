@@ -1,4 +1,4 @@
-# vue3project
+# myproject
 
 ## Project setup
 ```
